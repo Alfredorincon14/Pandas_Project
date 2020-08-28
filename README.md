@@ -1,4 +1,4 @@
-# Pandas_challenge
+# Pandas_Project
 
 After completing the  analysis, we can observe the following trends:
 
